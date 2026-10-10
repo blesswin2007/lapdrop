@@ -3,7 +3,11 @@
 > **AirDrop-style fast local file & video sharing over Wi-Fi.**  
 > Transmit photos, 4K videos, and large files up to 100GB across any device on your local network instantly without cloud uploads.
 
-![LapDrop Banner](https://img.shields.io/badge/License-MIT-blue.svg) ![Node.js](https://img.shields.io/badge/Node.js-v16%2B-green.svg) ![Socket.io](https://img.shields.io/badge/Socket.io-v4-black.svg)
+[![GitHub Stars](https://img.shields.io/github/stars/blesswin2007/lapdrop?style=social)](https://github.com/blesswin2007/lapdrop/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/blesswin2007/lapdrop?style=social)](https://github.com/blesswin2007/lapdrop/network/members)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Node.js](https://img.shields.io/badge/Node.js-v16%2B-green.svg)](https://nodejs.org/)
+[![Socket.io](https://img.shields.io/badge/Socket.io-v4-black.svg)](https://socket.io/)
 
 ---
 
@@ -76,13 +80,19 @@ lapdrop/
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/your-username/lapdrop/issues).
+Feel free to check the [issues page](https://github.com/blesswin2007/lapdrop/issues).
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git checkout -b feature/AmazingFeature`)
 5. Open a Pull Request
+
+---
+
+## ⭐ Support & Star
+
+If you find **LapDrop** useful, please consider giving it a **⭐ Star** on [GitHub](https://github.com/blesswin2007/lapdrop)! It helps the project reach more users and open-source contributors.
 
 ---
 

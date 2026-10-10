@@ -28,7 +28,7 @@ Make sure you have [Node.js](https://nodejs.org/) (v16 or higher) installed on y
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/lapdrop.git
+   git clone https://github.com/blesswin2007/lapdrop.git
    cd lapdrop
    ```
 
